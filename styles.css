@@ -1,0 +1,165 @@
+:root {
+    --theme-color-1: #2b0450;
+    --theme-color-2: #430964;
+    --theme-color-3: #7417aa;
+    --theme-color-4: #9745e4;
+    --theme-color-5: #c181da;
+    --theme-color-6: #2D303D;
+    --theme-color-7: #343746;
+    --theme-color-8: #404356;
+    --theme-color-9: #4C5067;
+    --theme-color-10: #616784;
+    --theme-purple: rgb(137, 40, 228);
+  }
+
+html {
+    font-size: 62.5%;
+    font-family: Montserrat; 
+  }
+
+.bold {
+    font-weight: 600;
+}
+
+.div-1 {
+    min-height: 20rem;
+    display: flex;
+    color: white;
+    font-size: 7rem;
+    font-weight: 400;
+    background-size: cover;
+    align-content: center;
+
+}
+
+.home-div-1{
+    background:linear-gradient(60deg, rgba(144, 17, 175, 0.7), rgba(201, 115, 241, 0.2)), url(https://picsum.photos/id/1043/800/600);
+}
+
+.about-div-1{
+    background:linear-gradient(60deg, rgba(144, 17, 175, 0.7), rgba(201, 115, 241, 0.2)), url(https://picsum.photos/id/365/800/600);
+}
+
+.jurisdictions-div-1{
+    background:linear-gradient(60deg, rgba(144, 17, 175, 0.7), rgba(201, 115, 241, 0.2)), url(https://picsum.photos/id/274/800/600);
+}
+
+.policy-div-1{
+    background:linear-gradient(60deg, rgba(144, 17, 175, 0.7), rgba(201, 115, 241, 0.2)), url(https://picsum.photos/id/320/800/600);
+}
+
+.home-div-1a {
+    align-self: center;
+    width: 50%;
+    text-align: center;
+    padding: 4rem;
+    line-height: 9rem;
+
+}
+.navbar-collapse {
+    display: flex;
+    align-content: center;
+    vertical-align: center;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link, .dropdown-menu .dropdown-item {
+    font-size: 2rem;
+    font-family: Montserrat;
+    font-weight: 500;
+    vertical-align: center;
+    color: black;
+    padding: 1rem;
+
+}
+
+.navbar-expand-lg .navbar-nav .nav-link:hover, .dropdown-item:hover {
+    border-bottom: 2px solid var(--theme-purple);
+    background-color: var(--theme-color-5);
+}
+
+.logo {
+    background-image: url(/images/logo.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    height: auto;
+    display: inline-block;
+    position: relative;
+
+}
+.navbar-nav {
+    align-items: center;
+    display: flex;
+}
+
+.main-text {
+    color: black;
+    padding: 5rem;
+    font-size: 2rem;
+    padding: 4rem 25% 3rem;
+}
+
+.index {
+    padding: 2rem 25%;
+}
+.main-text p {
+    padding: 0.7rem 0;
+}
+
+.index p {
+    padding: 0.2rem 0;
+}
+
+
+
+.main-footer {
+    padding: 2rem 0 1.5rem;
+    color: white;
+    font-size: 1.5rem;
+    background-color: var(--theme-color-2);
+    vertical-align: center;
+}
+
+.main-footer p {
+
+}
+
+.form-control {
+    font-size: 2rem;
+}
+
+.submit-button {
+    background-color: #7417aa;
+    color: white;
+    height: 4rem;
+    font-size: 2rem;
+}
+
+.policy-link {
+    padding: 2rem 7.5% 2.5rem;
+    color: white;
+    display: inline-block;
+}
+
+.policy-link:hover {
+    color: #c181da;
+}
+
+.services {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.contact-us-title{
+    font-size: 4rem;
+    padding: 1rem 0rem;
+}
+
+.index-title {
+    font-size: 4rem;
+}
+
+.main-text ul li a {
+    color: black;
+}
