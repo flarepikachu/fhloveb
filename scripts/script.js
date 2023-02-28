@@ -143,7 +143,7 @@ class contactus extends HTMLElement {
     <div class="contact-us-title">Contact Us</div>
     <form
       target="_blank"
-      action="https://fhloveb.com/thanks.html"
+      action="https://formsubmit.co/4d455adcbb0ddd053febdee8f2bc1f26"
       method="POST"
     >
       <div class="form-group">
