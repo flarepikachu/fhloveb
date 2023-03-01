@@ -16,7 +16,7 @@ class fhlnavbar extends HTMLElement {
           </p>
         </div>
         <p class="text-center">
-          Faith Hope Love Business Ltd ® - Registered in Hong Kong, Singapore,
+          Faith Hope Love Business Ltd&#9415 - Registered in Hong Kong, Singapore,
           and the United Kingdom.
         </p>
         <p class="text-center">
@@ -28,7 +28,7 @@ class fhlnavbar extends HTMLElement {
           Street, 5th Floor, London, W1W 5PF, United Kingdom
         </p>
         <p class="text-center">
-          Copyright 2023 © Faith Hope Love Business Limited. All rights
+          Copyright 2023&copy; Faith Hope Love Business Limited. All rights
           reserved.
         </p>
       </div>
