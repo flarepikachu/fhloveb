@@ -12,7 +12,7 @@ class fhlnavbar extends HTMLElement {
             <a class="policy-link" href="/policy/privacy.html"
               >Privacy Policy</a
             >
-            <a class="policy-link" href="/policy/cookie.html">Cookie Policy</a>
+            <a class="policy-link" href="/policy/cookies.html">Cookie Policy</a>
           </p>
         </div>
         <p class="text-center">
